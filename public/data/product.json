@@ -1,0 +1,76 @@
+[
+  {
+    "id": 1,
+    "name": "Social Apocalypse - Bullet For My Valentine",
+    "description": "PREVENTA del nuevo disco de Bullet For My Valentine.",
+    "price": 40000,
+    "image": "/img/footware/social-apocalypse.jpg",
+    "category": "metalcore"
+
+  },
+  {
+    "id": 2,
+    "name": "The End Is Not the End - Atreyu",
+    "description": "Último álbum de metalcore de Atreyu.",
+    "price": 28000,
+    "image": "/img/footware/the-end-is-not-the-end.jpg",
+    "category": "metalcore"
+
+  },
+  {
+    "id": 3,
+    "name": "Vindicate - Black Veil Brides",
+    "description": "Álbum de hard rock y metal moderno de Black Veil Brides.",
+    "price": 30000,
+    "image": "/img/footware/vindicate.jpg",
+    "category": "hard rock"
+  },
+  {
+    "id": 4,
+    "name": "Tanzneid - Electric Callboy",
+    "description": "Metal y música electrónica de la mano de Electric Callboy.",
+    "price": 35000,
+    "image": "/img/footware/tanzneid.jpg",
+    "category": "electronicore"
+  },
+  {
+    "id": 5,
+    "name": "Sanctuary - Evanescence",
+    "description": "Sexto álbum de estudio de Evanescence.",
+    "price": 29000,
+    "image": "/img/footware/sanctuary.jpg",
+    "category": "rock alternativo"
+  },
+  {
+    "id": 6,
+    "name": "Into Oblivion - Lamb of God",
+    "description": "Groove metal con riffs pesados y voces agresivas.",
+    "price": 33000,
+    "image": "/img/footware/into-oblivion.jpg",
+    "category": "groove metal"
+  },
+  {
+    "id": 7,
+    "name": "Megadeth - Megadeth",
+    "description": "Disco final de la carrera de Megadeth.",
+    "price": 34000,
+    "image": "/img/footware/megadeth-selftitled.jpg",
+    "category": "thrash metal"
+  },
+  {
+    "id": 8,
+    "name": "Decades - Motionless in White",
+    "description": "Metal alternativo con influencias industriales.",
+    "price": 31000,
+    "image": "/img/footware/decades.jpg",
+    "category": "metal alternativo"
+  },
+  {
+    "id": 9,
+    "name": "Empty Hands - Poppy",
+    "description": "Metal alternativo con sonidos experimentales y electrónicos.",
+    "price": 30000,
+    "image": "/img/footware/empty-hands.jpg",
+    "category": "metal alternativo"
+  }
+]
